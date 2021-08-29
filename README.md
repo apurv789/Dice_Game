@@ -1,2 +1,2 @@
-It's a simple game that I made using HTML/CSS and javascript.
+It's a simple game that I made using HTML/CSS and javascript.<br>
 On each page refresh numbers on dices change, and the player with the greater number wins.
